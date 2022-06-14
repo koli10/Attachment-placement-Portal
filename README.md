@@ -1,4 +1,5 @@
 Attachment Placement Portal
+
 Problem Background
 Industrial attachment is an academic requirement to most undergraduate courses that students must accomplish during their second, third or fifth years of study depending on the faculty. It aims at impacting valuable practical experiences to prepare the students for the workforce upon graduation. The students get to apply classroom knowledge to real-world situations.
 Seeking attachment opportunities is difficult and strenuous to find since it involves moving from one office to another. Students are faced with the challenge of change in environment from the school one to the job market under a limited amount of time. The students who get attachment opportunities are also placed under irrelevant departments that does not relate with their area of study.
